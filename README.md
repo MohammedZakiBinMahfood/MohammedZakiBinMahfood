@@ -30,7 +30,7 @@
 ###
 
 <h6 align="left">
-### Hi there 👋<br><br>I'm Mohammed from Yemen 🇾🇪  <br>- 🔭 I’m working as a **Mobile Developer (Flutter | Dart)**  <br>- ⚡ In my free time, I explore **Clean Architecture, State Management (Cubit, Provider, Riverpod), and API integration with Dio**  <br>- 📱 Passionate about building apps that combine **practical functionality** with **clean and scalable code**  <br>- 🌱 Currently diving deeper into **OOP, performance optimization, and database solutions (SQLite, Isar, Hive)**  <br>- 💡 I enjoy turning ideas into real mobile solutions and experimenting with new tech stacks</h6>
+### Hi there 👋<br><br>I'm Mohammed from Yemen 🇾🇪  <br>- 🔭 I’m working as a Mobile Developer (Flutter | Dart)  <br>- ⚡ In my free time, I explore **Clean Architecture, State Management (Cubit, Provider, Riverpod), and API integration with Dio**  <br>- 📱 Passionate about building apps that combine **practical functionality** with **clean and scalable code**  <br>- 🌱 Currently diving deeper into **OOP, performance optimization, and database solutions (SQLite, Isar, Hive)**  <br>- 💡 I enjoy turning ideas into real mobile solutions and experimenting with new tech stacks</h6>
 
 ###
 
